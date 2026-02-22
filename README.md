@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **Improving problem solving skills and clean code practice**
 
-- 💬 Ask me about **Java ,Python **
+- 💬 Ask me about Java ,Python 
 
-- 📫 How to reach me **sadesnadulathmi2007@gmail.com**
+- 📫 How to reach me **sadesnadulathmii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
