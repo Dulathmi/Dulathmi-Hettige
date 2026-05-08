@@ -2,11 +2,11 @@
 
 # Hi there, I'm Dulathmi Sadesna Hettige 👋
 
-### Computer Science Undergraduate | IIT (University of Westminster)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+Intern)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E2FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+Intern;Backend+Architecture+%7C+APIs;AI+%26+Machine+Learning+Enthusiast;Problem+Solver+%40+IEEEXtreme)](https://git.io/typing-svg)
+### **Computer Science Undergraduate | IIT (University of Westminster)**
 
-<img src="https://komarev.com/ghpvc/?username=Dulathmi&label=Profile%20Views&color=e2ff00&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Dulathmi&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
