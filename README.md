@@ -57,21 +57,15 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats
-
-![Dulathmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulathmi&show_icons=true&theme=radical&rank_icon=github&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulathmi&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulathmi&theme=radical)
-
----
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulathmi&layout=compact&theme=radical&hide_border=true" width="40%" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulathmi&theme=tokyonight&hide_border=true)
+
+![Dulathmi's Stats](https://github-readme-stats.vercel.app/api?username=Dulathmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dulathmi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
